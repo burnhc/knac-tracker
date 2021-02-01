@@ -1,6 +1,8 @@
 # 21Days: Project Submission for HackViolet 2021
 **Awarded Best UI/UX of 150+ projects**
 
+Team members: ![Ashley Liao (@aash-li)](https://github.com/aash-li), ![Keith Jiang (@kalettuce)](https://github.com/kalettuce), ![Nick Sycamore (@sycmdmr)](https://github.com/sycmdmr)
+
 ![Video Presentation](https://youtu.be/gnMpqQoTCqU) | ![Figma Prototype](https://www.figma.com/file/N45E96rrcG5kMwj6RQPgLI/21DAYS-Team-KNAC?node-id=0%3A1) | ![React Simulation](https://knac-app.web.app/) | ![Devpost](https://devpost.com/software/21days?ref_content=user-portfolio&ref_feature=in_progress#)
 
 21Days is a real-time _collaborative_ habit-tracker web app enabling ambitious people to pursue new habits in a team-oriented way. Share your latest ambition and pursue new habits alongside the support of your friends. What will you achieve in 21Days? 
