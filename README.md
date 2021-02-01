@@ -1,5 +1,5 @@
 # 21Days - Hackathon Project for ![HackViolet 2021](https://hackviolet.devpost.com/)
-Awarded **Best UI/UX** of 150+ projects
+_Awarded **Best UI/UX** of 150+ projects_
 
 Team members: ![Ashley Liao (@aash-li)](https://github.com/aash-li), ![Keith Jiang (@kalettuce)](https://github.com/kalettuce), ![Nick Sycamore (@sycmdmr)](https://github.com/sycmdmr)
 
